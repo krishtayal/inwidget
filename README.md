@@ -13,6 +13,7 @@ This library is based on PHP and allows you to show photos from an Instagram acc
 + Profile stats
 + Adaptive, responsive template
 + Support of several hashtags
++ Easy to use
 + Language auto detection
 + Works without ACCESS_TOKEN
 + Inserting with one line in HTML
